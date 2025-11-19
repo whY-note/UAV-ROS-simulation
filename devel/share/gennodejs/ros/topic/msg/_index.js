@@ -1,0 +1,1 @@
+/home/yhw/catkin_ws/devel/.private/topic/share/gennodejs/ros/topic/msg/_index.js

@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target showpath[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/showpath.dir/src/showpath.cpp.o[0m
+[01m[K/home/yhw/catkin_ws/src/showpath/src/showpath.cpp:10:28:[m[K [01;35m[Kwarning: [m[KISO C++ forbids declaration of ‘[01m[Kmain[m[K’ with no type [[01;35m[K-Wreturn-type[m[K]
+   10 | main (int argc, char **argv[01;35m[K)[m[K
+      |                            [01;35m[K^[m[K
+[100%] [32m[1mLinking CXX executable /home/yhw/catkin_ws/devel/.private/showpath/lib/showpath/showpath[0m
+[100%] Built target showpath

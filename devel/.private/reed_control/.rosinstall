@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yhw/catkin_ws/devel/.private/reed_control/setup.sh

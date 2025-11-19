@@ -1,0 +1,8 @@
+prefix=/home/yhw/catkin_ws/install
+
+Name: reed_gazebo
+Description: Description of reed_gazebo
+Version: 2.2.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: gazebo_msgs geometry_msgs roscpp sensor_msgs

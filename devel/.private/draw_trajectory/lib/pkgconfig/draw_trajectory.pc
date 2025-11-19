@@ -1,0 +1,8 @@
+prefix=/home/yhw/catkin_ws/devel/.private/draw_trajectory
+
+Name: draw_trajectory
+Description: Description of draw_trajectory
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs

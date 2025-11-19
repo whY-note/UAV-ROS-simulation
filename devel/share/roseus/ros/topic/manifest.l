@@ -1,0 +1,1 @@
+/home/yhw/catkin_ws/devel/.private/topic/share/roseus/ros/topic/manifest.l

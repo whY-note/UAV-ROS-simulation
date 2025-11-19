@@ -1,0 +1,8 @@
+prefix=/home/yhw/catkin_ws/devel/.private/showpath
+
+Name: showpath
+Description: Description of showpath
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roscpp rospy sensor_msgs std_msgs tf

@@ -1,0 +1,8 @@
+prefix=/home/yhw/catkin_ws/devel/.private/reed_control
+
+Name: reed_control
+Description: Description of reed_control
+Version: 2.2.3
+Cflags: -I/home/yhw/catkin_ws/src/reed_simulator/reed_control/include
+Libs: -L${prefix}/lib -lquat_position_controller
+Requires: geometry_msgs mav_msgs nav_msgs roscpp sensor_msgs

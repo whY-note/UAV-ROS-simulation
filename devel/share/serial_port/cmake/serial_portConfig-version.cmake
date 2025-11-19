@@ -1,0 +1,1 @@
+/home/yhw/catkin_ws/devel/.private/serial_port/share/serial_port/cmake/serial_portConfig-version.cmake

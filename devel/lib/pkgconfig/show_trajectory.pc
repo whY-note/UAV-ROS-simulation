@@ -1,0 +1,1 @@
+/home/yhw/catkin_ws/devel/.private/show_trajectory/lib/pkgconfig/show_trajectory.pc

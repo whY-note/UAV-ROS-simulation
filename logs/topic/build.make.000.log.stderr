@@ -1,0 +1,7 @@
+[01m[K/home/yhw/catkin_ws/src/topic/src/pub.cpp:4:9:[m[K [01;31m[Kfatal error: [m[Ktopic/example.h: No such file or directory
+    4 | #include[01;31m[K"topic/example.h"[m[K
+      |         [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/pub.dir/build.make:63: CMakeFiles/pub.dir/src/pub.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:466: CMakeFiles/pub.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2
